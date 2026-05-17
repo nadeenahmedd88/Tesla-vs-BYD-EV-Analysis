@@ -5,7 +5,7 @@ An interactive Power BI dashboard that dives deep into the electric vehicle mark
 🏠 Home Page
 <img width="1168" height="666" alt="Screenshot 2026-05-17 230434" src="https://github.com/user-attachments/assets/db7ebb9f-ad46-47b9-8e29-b442bfff8fbd" />
 📊 Market Overview
-<img width="1188" height="682" alt="Screenshot 2026-05-17 230531" src="https://github.com/user-attachments/assets/1f9e2cf8-bcb0-4a6f-8702-0344816889a5" />
+<img width="1192" height="661" alt="image" src="https://github.com/user-attachments/assets/e6223d9d-2487-4d48-8ca0-faa8f26c8eed" />
 🏎️ Performance Comparison
 <img width="1181" height="662" alt="image" src="https://github.com/user-attachments/assets/c0289e47-c363-49dc-b1f9-f2bd1db93142" />
 💲 Pricing & Market Insights
